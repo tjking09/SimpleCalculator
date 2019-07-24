@@ -79,7 +79,7 @@ namespace SimpleCalculator
                     }
                     else
                     {
-                        Console.WriteLine("You've enter an invalid operand, please use +, -, x or /");
+                        Console.WriteLine("You've enter an invalid operand, please use +, -, x, / or %");
                         Console.Write("\n Enter your operand:");
                         o = Console.ReadLine();
                     }
